@@ -1,0 +1,18 @@
+body {
+  background-color: aliceblue;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+a{
+  font-size: 22px;
+  font-weight: 800;
+  list-style: none;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: rgb(28, 28, 158);
+}
