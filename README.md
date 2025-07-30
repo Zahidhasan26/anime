@@ -1,10 +1,10 @@
 # Web Development Project 7 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **MD Zahid Hasan**
 
-This web app: **insert description**
+This web app: **Anime Team (Naruto)**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
